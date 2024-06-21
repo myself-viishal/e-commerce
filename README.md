@@ -14,4 +14,5 @@ Currently, two official plugins are available:
 
 ### tailwind css is being used for styling
 
-### Template - [Design-Template](https://websitedemos.net/t-shirts-store-04/?customize=template)
+
+
